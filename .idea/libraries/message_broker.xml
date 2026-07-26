@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="message-broker">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/message-broker.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
